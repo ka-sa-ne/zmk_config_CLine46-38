@@ -26,7 +26,6 @@ endif
 
 if SHIELD_CLINE46_R || SHIELD_CLINE46_L
 
-
 config ZMK_SPLIT
     default y
 
