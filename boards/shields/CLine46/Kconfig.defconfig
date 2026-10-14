@@ -26,8 +26,6 @@ endif
 
 if SHIELD_CLINE46_R || SHIELD_CLINE46_L
 
-config NFCT_PINS_AS_GPIOS
-    default y
 
 config ZMK_SPLIT
     default y
